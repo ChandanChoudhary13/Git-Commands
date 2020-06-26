@@ -59,4 +59,18 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
   
   --------------------------------------------------------------------------------------------
+  #BIT Bucket
+  --------------------------------------------------------------------------------------------
+  1. Get Clone of Repository- master branch | Other Branch
+2. Create Branch on BitBucket using UI(https://bitbucket.org/)
+3. Run Command : git fetch origin 
+Note : It will show all the branches.So, confirm that your created branch is showing or not.
+4. Run Command : git checkout GE1147
+Note : GE1147 is New Branch Name
+
+
+
+
+
+
   
